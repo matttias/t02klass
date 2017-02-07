@@ -20,4 +20,7 @@ public class TaisTrapets{
 		return (4*a+x+b);
 	}
 	
+	public double pyt(){
+		return (Math.sqrt(Math.pow(x+a, 2)+Math.pow(a, 2)));
+	}
 }

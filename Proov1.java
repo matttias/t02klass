@@ -15,5 +15,9 @@ public class Proov1{
 		
 		System.out.println("---------");
 		
+		System.out.println(laud1.pyt());
+		System.out.println(laud2.pyt());
+		System.out.println(laud3.pyt());
+		
 	}
 }
