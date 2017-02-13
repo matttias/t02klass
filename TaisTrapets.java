@@ -34,4 +34,12 @@ public class TaisTrapets{
 		return (Math.toDegrees(Math.PI/2+Math.atan(c-x/a)));
 	}
 	
+//Väljnund:	
+//169.69515353123398
+//172.81573260757312
+//173.76291992354152
+//160.34617594194668
+
+	
+	
 }
